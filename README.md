@@ -10,7 +10,7 @@ Video:<br>
 ## Requirements
 ***hdl_people_tracking*** requires the following libraries:
 - OpenMP
-- PCL 1.7
+- PCL 1.10
 
 The following ros packages are required:
 - pcl_ros
